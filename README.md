@@ -1,2 +1,2 @@
-# promptly
-Daily Writing Prompts for Writers
+# Location Search
+A simple test app to search a database of locations.
