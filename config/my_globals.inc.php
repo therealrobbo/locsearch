@@ -22,10 +22,10 @@ switch ( $gPZ['environment'] ) {
         break;
 
     case ENV_PROD:
-        $gPZ['doc_root']          = 'C:/Users/Rob/Documents/GitHub/locsearch/';
+        $gPZ['doc_root']          = '/home/rmwtechn/rmw.technology/html/inmarket/';
 
-        $gPZ['base_url']          = 'http://locsearch.loc';
-        $gPZ['base_url_ssl']      = 'http://locsearch.loc';
+        $gPZ['base_url']          = 'http://rmw.technology/inmarket';
+        $gPZ['base_url_ssl']      = 'http://rmw.technology/inmarket';
         $gPZ['suppress_ads']      = false;
         $gPZ['ssl_environment']   = false;
         error_reporting( 0 );
