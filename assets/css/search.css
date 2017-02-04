@@ -1,0 +1,12 @@
+.site-header {
+    margin: 10px 0 20px;
+    font-size: 20px;
+}
+
+.content form {
+    padding: 10px 50px;
+    width: 90%;
+    background-color: #eeeeee;
+    border-radius: 10px;
+    border-color: #e0e0e0;
+}
