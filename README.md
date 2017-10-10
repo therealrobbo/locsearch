@@ -17,11 +17,11 @@ Demo The API by using a url of the form
 
 http://rmw.technology/inmarket/search/[LAT]/[LON]/[CRITERIA]/[RADIUS]/[VIEW_TYPE]
 
-where:
-lat & lon are latitude and longitude coordinates
-criteria is 1 - most populated, 2 - least populated, 3 - closest, 4 - farthest
-radius is an integer indicating miles around the lat/lon to constrain the search to
-view type is 1 - HTML, 2 - JSON
+where:<br />
+lat & lon are latitude and longitude coordinates<br />
+criteria is 1 - most populated, 2 - least populated, 3 - closest, 4 - farthest<br />
+radius is an integer indicating miles around the lat/lon to constrain the search to<br />
+view type is 1 - HTML, 2 - JSON<br />
 
 For example, to get a JSON result of the most populated cities within 100 miles of Hollywood the URL is...
 http://rmw.technology/inmarket/search/34.1030456/-118.3286613,15/1/100/2
